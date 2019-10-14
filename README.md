@@ -4,6 +4,7 @@ This is the template repository for the first major project in the Design 341 cl
 ## To use this template:
 
 1. Click the "Fork" button in the upper right corner of this repository.
+1.a: do a dance.
 
 2. Click on "Settings" and change the name to something better, like "project-one-four-poops", click the rename buton to save your changes.
 
