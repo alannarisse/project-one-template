@@ -1,4 +1,22 @@
 /* Enter your Styles below! */
 
 
-body { font-family: georgia; }
+body { font-family: 'Dosis', sans-serif; }
+
+h1, h2, h3, h4 {
+	font-family: 'Mansalva', cursive;
+}
+
+blockquote {
+	margin: 20px 60px;
+	font-family: 'Indie Flower', cursive;
+}
+
+header {margin-bottom: 20px;}
+
+
+/*
+font-family: 'Mansalva', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Indie Flower', cursive;
+*/

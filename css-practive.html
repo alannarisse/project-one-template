@@ -4,6 +4,13 @@
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<style>
+	
+
+	h1 {font-size: 48px;}
+
+	.homepage h1 {font-size: 48px;}
+
+
 	section.first { 
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -24,11 +31,17 @@
 	}
 
 
-	.gallery {
+	.homepage .gallery {
 		display: grid;
 		grid-template-columns:
 		repeat(auto-fill, minmax(150px,
 		1fr)); 
+		grid-gap: 20px;
+	}
+
+	.subpage .gallery {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
 		grid-gap: 20px;
 	}
 	.embedded-div {
